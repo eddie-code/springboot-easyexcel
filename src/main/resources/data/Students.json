@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "username": "zhangsan",
+    "password": "123456",
+    "nickname": "xiaosan",
+    "birthday": "2022-01-01",
+    "mobile": "13800138000",
+    "gender": "0"
+  },
+  {
+    "id": "2",
+    "username": "lisi",
+    "password": "123456",
+    "nickname": "xiaosi",
+    "birthday": "2022-02-01",
+    "mobile": "13800138001",
+    "gender": "0"
+  },
+  {
+    "id": "3",
+    "username": "wangwu",
+    "password": "123456",
+    "nickname": "xiaowang",
+    "birthday": "2022-03-01",
+    "mobile": "13800138002",
+    "gender": "1"
+  },
+  {
+    "id": "4",
+    "username": "chaoliu",
+    "password": "123456",
+    "nickname": "xiaoliu",
+    "birthday": "2022-04-01",
+    "mobile": "13800138003",
+    "gender": "1"
+  }
+]
