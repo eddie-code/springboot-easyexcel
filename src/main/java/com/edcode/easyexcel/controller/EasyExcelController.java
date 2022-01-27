@@ -1,16 +1,11 @@
 package com.edcode.easyexcel.controller;
 
-import cn.hutool.json.JSONUtil;
 import com.alibaba.excel.EasyExcel;
 import com.alibaba.excel.support.ExcelTypeEnum;
 import com.edcode.easyexcel.entity.Student;
 import com.edcode.easyexcel.util.EasyExcelUtils;
 import com.edcode.easyexcel.util.FileUtils;
-import java.io.FileReader;
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
-import java.net.URLEncoder;
-import java.util.ArrayList;
 import java.util.List;
 import javax.servlet.http.HttpServletResponse;
 import lombok.SneakyThrows;
